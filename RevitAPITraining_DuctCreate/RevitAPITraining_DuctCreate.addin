@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_DuctCreate.dll"</Assembly>
+		<AddInId>5CEC82C3-204E-4389-A54D-024A9EEFA241</AddInId>
+		<FullClassName>RevitAPITraining_DuctCreate.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+		<Text>6.1 Создание воздуховода</Text>
+	</AddIn>
+</RevitAddIns>
